@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "repo": "awesome-vcon",
+  "repo_version": null,
+  "archetype": "fork",
+  "generated_at": "2026-04-16T15:15:44.205652+00:00",
+  "stats": {
+    "node_count": 1,
+    "edge_count": 0
+  },
+  "nodes": [
+    {
+      "id": "document:readme",
+      "type": "document",
+      "name": "README",
+      "file": "README.md"
+    }
+  ],
+  "edges": [],
+  "subsystems": []
+}
