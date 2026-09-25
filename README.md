@@ -130,8 +130,20 @@ A curated list of the vCon (Virtualized Conversation) standard—specs, SDKs, to
 
 ## Data & Samples
 
-- **Fake vCons** — sample JSON corpora for testing and demos.  
-  https://github.com/vcon-dev
+- **vCon Supreme Court Arguments** — 8,503 US Supreme Court oral arguments, terms 1955-2025, IETF vCon syntax 0.4.0.  
+  https://github.com/vcon-dev/vcon-supreme-court-arguments
+
+- **IETF Meeting vCons** — 8,181 IETF working-group sessions, meetings 66-126 plus interims, IETF vCon syntax 0.4.0.  
+  https://github.com/vcon-dev/ietf-meeting-vcons
+
+- **vCon Dataset: City of Newport, RI** — 115 City of Newport, RI public meetings, IETF vCon syntax 0.4.0.  
+  https://github.com/vcon-dev/vcon-dataset-city-of-newport-ri
+
+- **Fake vCons** — 601 synthetic customer-service vCons from vcon_faker, IETF vCon syntax 0.4.0.  
+  https://github.com/vcon-dev/fake-vcons
+
+- **TADHack 2025** — 43 synthetic TADHack 2025 demo calls with audio, IETF vCon syntax 0.4.0.  
+  https://github.com/vcon-dev/tadhack-2025
 
 - **App demo: vCon Diary** — Streamlit app pulling calls, transcribing/summarizing, storing as vCons (CarrierX + OpenAI + Mongo).  
   https://github.com/vcon-dev/vcon-app-template
